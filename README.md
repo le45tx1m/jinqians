@@ -1,3 +1,6 @@
+# 更新
+**2023.10.10**添加解锁NetFlix节点
+
 # 说明
 cloudflare搭建的Vless节点，支持`V2rayN`、`Clash`、`shadowrocket`等软件订阅
 
