@@ -6,7 +6,7 @@
 **2023.10.10**添加解锁NetFlix节点
 
 # 说明
-cloudflare搭建的Vless节点，支持`V2rayN`、`Clash`、`shadowrocket`等软件订阅
+vmess,vless节点，共享服务请合理使用，解锁google，youtube，netflix。chatgpt等国外网站
 
 ## 订阅链接
 + https://raw.githubusercontent.com/jinqiannan/free/main/jinqians.txt
