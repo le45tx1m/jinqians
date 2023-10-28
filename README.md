@@ -11,6 +11,9 @@ vmess,vless节点，共享服务请合理使用，解锁google，youtube，netfl
 **2023.10.20**删除shadowsocks、wireguard节点<br>
 **2023.10.10**添加解锁NetFlix节点
 
+## 网址
+[https://jinqians.com/免费节点](https://jinqians.com/%e5%85%8d%e8%b4%b9%e8%8a%82%e7%82%b9%e5%88%86%e4%ba%ab/)
+
 ## 订阅链接 [长期更新]
 + https://raw.githubusercontent.com/jinqians/free/main/jinqians.txt
 
