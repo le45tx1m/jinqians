@@ -1,4 +1,3 @@
-
 # 食用说明
 vmess,vless节点，共享服务请合理使用，解锁google，youtube，netflix。chatgpt等国外网站
 ## 软件推荐
@@ -16,6 +15,7 @@ stash
 **若本地网速不行，通过优选cloudflare IP，以便提供更好地本地访问速度**
 
 ## 更新
+**2023.10.28**订阅链接重置<br>
 **2023.10.25**新增vmess节点<br>
 **2023.10.20**新增HK节点*解锁Disnet+,Netflix，ChatGPT* <br>
 **2023.10.20**删除shadowsocks、wireguard节点<br>
