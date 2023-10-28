@@ -37,7 +37,7 @@ Email: jinqianweb@gmail.com
 **[小强Cloud](https://xqcloud.net/#/register?code=Xwa7Mopy)**<br>
 主要优点：有低价套餐，线路相对稳定，几乎解锁所有流媒体<br>
 博主目前在用增强30G，作为备用
-| row1 colspan=2  **[小强Cloud]（https://xqcloud.net/#/register?code=Xwa7Mopy）**  |  | 
+|  **[小强Cloud](https://xqcloud.net/#/register?code=Xwa7Mopy)**  |  | 
 |  ----  | ----  |
 | **套餐**  |  **节点** | **价格** | 
 |  轻量66G  |  中转为主，少量IPEL |5元/月/66G |
