@@ -15,6 +15,6 @@ vmess,vless节点，共享服务请合理使用，解锁google，youtube，netfl
 + https://raw.githubusercontent.com/jinqiannan/free/main/jinqians.txt
 (需挂代理更新订阅)
 
-+ https://cloud.jinqians.com/?explorer/share/fileOut&shareID=9pWVHw9w&path=%7BshareItemLink%3A9pWVHw9w%7D%2F%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9%2Fjinqians.txt
++ https://cloud.jinqians.com/#s/9yhYIHzw
 （可直接订阅）
 
