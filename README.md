@@ -30,11 +30,8 @@ stash
 + https://cloud.jinqians.com/?explorer/share/fileOut&shareID=9pWVHw9w&path=%7BshareItemLink%3A9pWVHw9w%7D%2F%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9%2Fjinqians.txt
 （备用）
 
-## FeedBack
-Email: jinqianweb@gmail.com
-
 ## 便宜机场推荐
-**[小强Cloud](https://xqcloud.net/#/register?code=Xwa7Mopy)**<br>
+<b><a href="https://xqcloud.net/#/register?code=Xwa7Mopy" target="_blank">小强Cloud</a><b>
 主要优点：有低价套餐，线路相对稳定，几乎解锁所有流媒体<br>
 博主目前在用增强30G，作为备用
 <table>
@@ -45,3 +42,6 @@ Email: jinqianweb@gmail.com
         <tr><td>增强30G</td> <td> IPEL为主，备用节点为中转线路</td><td> 7.2元/月/30G</td><td><a href="https://xqcloud.net/#/register?code=Xwa7Mopy" target="_blank">购买链接</td>
     </tr>
 </table>
+
+## FeedBack
+Email: jinqianweb@gmail.com
