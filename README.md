@@ -37,8 +37,11 @@ Email: jinqianweb@gmail.com
 **[小强Cloud](https://xqcloud.net/#/register?code=Xwa7Mopy)**<br>
 主要优点：有低价套餐，线路相对稳定，几乎解锁所有流媒体<br>
 博主目前在用增强30G，作为备用
-|  **[小强Cloud](https://xqcloud.net/#/register?code=Xwa7Mopy)**  |  | 
-|  ----  | ----  |
-| **套餐**  |  **节点** | **价格** | 
-|  轻量66G  |  中转为主，少量IPEL |5元/月/66G |
-|  增强30G  |  IPEL为主，备用节点为中转线路 |7.2元/月/30G |
+<table>
+    <tr>
+        <th colspan="4"><a href="https://xqcloud.net/#/register?code=Xwa7Mopy" target="_blank">小强Cloud</a></th>
+        <tr><td><strong>套餐</strong></td> <td><strong>节点</strong></td> <td><strong>价格</strong></td><td><strong></strong></td>
+        <tr><td>轻量66G</td> <td>中转为主，少量IPEL</td><td>5元/月/66G</td><td><a href="https://xqcloud.net/#/register?code=Xwa7Mopy" target="_blank">购买链接</td>
+        <tr><td>增强30G</td> <td> IPEL为主，备用节点为中转线路</td><td> 7.2元/月/30G</td><td><a href="https://xqcloud.net/#/register?code=Xwa7Mopy" target="_blank">购买链接</td>
+    </tr>
+</table>
