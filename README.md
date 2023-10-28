@@ -7,7 +7,7 @@ vmess,vless节点，共享服务请合理使用，解锁google，youtube，netfl
 
 ## 更新
 **2023.10.25**新增vmess节点<br>
-**2023.10.20**新增HK节点*解锁Disnet+,Netflix，ChatGPT* **<br>
+**2023.10.20**新增HK节点*解锁Disnet+,Netflix，ChatGPT* <br>
 **2023.10.20**删除shadowsocks、wireguard节点<br>
 **2023.10.10**添加解锁NetFlix节点
 
