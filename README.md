@@ -14,13 +14,6 @@ stash
 *jinqians.com1-jinqians.com-5,jinqians.com-HK均通过cloudflare转发*
 **若本地网速不行，通过优选cloudflare IP，以便提供更好地本地访问速度**
 
-## 更新
-**2023.10.28**订阅链接重置<br>
-**2023.10.25**新增vmess节点<br>
-**2023.10.20**新增HK节点*解锁Disnet+,Netflix，ChatGPT* <br>
-**2023.10.20**删除shadowsocks、wireguard节点<br>
-**2023.10.10**添加解锁NetFlix节点
-
 ## 网址
 [https://jinqians.com/免费节点](https://jinqians.com/%e5%85%8d%e8%b4%b9%e8%8a%82%e7%82%b9%e5%88%86%e4%ba%ab/)
 
@@ -46,9 +39,8 @@ stash
 
             
 #### 轻量套餐
-轻量套餐查看<a href="https://cloud.jinqians.com/#s/9pWVHw9w&view=%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9/%E8%BD%BB%E9%87%8F.jpg&isFile=1" alt="轻量"><br>
-增强套餐查看<a href="https://cloud.jinqians.com/#s/9pWVHw9w&view=%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9/%E5%A2%9E%E5%BC%BA.jpg&isFile=1" alt="轻量"><br>
-<img src="https://cloud.jinqians.com/#s/9pWVHw9w&view=%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9/%E8%BD%BB%E9%87%8F.jpg&isFile=1" alt="轻量" width="auto" ><br>
+轻量套餐查看<a href="https://cloud.jinqians.com/#s/9pWVHw9w&view=%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9/%E8%BD%BB%E9%87%8F.jpg&isFile=1" alt="轻量">点击查看<br>
+增强套餐查看<a href="https://cloud.jinqians.com/#s/9pWVHw9w&view=%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9/%E5%A2%9E%E5%BC%BA.jpg&isFile=1" alt="轻量">点击查看<br>
 
 ## FeedBack
 Email: jinqianweb@gmail.com
