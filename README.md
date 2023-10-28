@@ -38,11 +38,16 @@ stash
     <tr>
         <th colspan="4"><a href="https://xqcloud.net/#/register?code=Xwa7Mopy" target="_blank">小强Cloud</a></th>
         <tr><td><strong>套餐</strong></td> <td><strong>节点</strong></td> <td><strong>价格</strong></td><td><strong></strong></td>
-        <tr><td>轻量66G</td> <td>中转为主，少量IPEL<img src="https://cloud.jinqians.com/#s/9ylwbMyQ" alt="轻量" width="auto" >
+        <tr><td>轻量66G</td> <td>中转为主，少量IPEL
 </td><td>5元/月/66G</td><td><a href="https://xqcloud.net/#/register?code=Xwa7Mopy" target="_blank">购买链接</td>
-        <tr><td>增强30G</td> <td> IPEL为主，备用节点为中转线路<img src="https://cloud.jinqians.com/#s/9ylwme6g" alt="增强" width="auto" ></td><td> 7.2元/月/30G</td><td><a href="https://xqcloud.net/#/register?code=Xwa7Mopy" target="_blank">购买链接</td>
+        <tr><td>增强30G</td> <td> IPEL为主，备用节点为中转线路</td><td> 7.2元/月/30G</td><td><a href="https://xqcloud.net/#/register?code=Xwa7Mopy" target="_blank">购买链接</td>
     </tr>
 </table>
 
+            
+#### 轻量套餐
+<img src="https://cloud.jinqians.com/#s/9pWVHw9w&view=%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9&gid=1&pid=2" alt="轻量" width="auto" ><br>
+### 增强套餐
+<img src="https://cloud.jinqians.com/#s/9ylwme6g" alt="增强" width="auto" ><br>
 ## FeedBack
 Email: jinqianweb@gmail.com
