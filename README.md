@@ -12,7 +12,7 @@ vmess,vless节点，共享服务请合理使用，解锁google，youtube，netfl
 **2023.10.10**添加解锁NetFlix节点
 
 ## 订阅链接
-+ https://raw.githubusercontent.com/jinqiannan/free/main/jinqians.txt
++ https://raw.githubusercontent.com/jinqians/free/main/jinqians.txt
 (需挂代理更新订阅)
 
 + https://cloud.jinqians.com/#s/9yhYIHzw
