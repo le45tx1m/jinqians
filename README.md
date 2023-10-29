@@ -4,12 +4,16 @@ vmess,vless节点，共享服务请合理使用，解锁google，youtube，netfl
 节点包含部分Vless协议，部分软件Vless节点可能无法使用
 ### IOS
 建议使用小火箭(shadowrocket)，圈X订阅**开启资源解析**
+shadowrocket ipa下载，<a href="https://cloud.jinqians.com/#s/9pWVHw9w&view=shadowrocket/Shadowrocket-2.1.10-PP.ipa&isFile=1" target="_blank" alt="shadowrocket">点击下载</a>
 ### Android
 V2rayNG
+V2rayNG 下载 <a href="https://github.com/2dust/v2rayNG/releases" target="_blank" alt="V2rayNg">点击下载</a>
 ### Windows
 V2rayN
+V2rayN 下载 <a href="https://github.com/2dust/v2rayN/releases" target="_blank" alt="V2rayN">点击下载</a>
 ### MacOS
-stash
+ClashX
+ClashX 下载<a href="https://github.com/yichengchen/clashX/releases" target="_blank" alt="ClashX">点击下载</a>
 ## PS
 *jinqians.com1-jinqians.com-5,jinqians.com-HK均通过cloudflare转发*
 **若本地网速不行，通过优选cloudflare IP，以便提供更好地本地访问速度**
