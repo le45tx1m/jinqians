@@ -28,7 +28,7 @@ ClashX 下载<a href="https://github.com/yichengchen/clashX/releases" target="_b
 （备用）
 
 ## 优选IP
-jinqians.com1-5,jinqians.com-HK套了CF，可通过优选IP进行加速，本地优选IP教程可上网搜索
+jinqians.com1-5,jinqians.com-HK套了CF，可通过优选IP进行加速，本地优选IP教程可上网搜索<br>
 在线查看：移动、联通、电信优选IP，<a href="支持不同的运营商选择：电信、移动、联通" target="_blank" alt="CF_IP">网址</a>
 
 ## 便宜机场推荐
