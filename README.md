@@ -42,7 +42,7 @@ ClashX 下载<a href="https://github.com/yichengchen/clashX/releases" target="_b
 [https://jinqians.com/免费节点](https://jinqians.com/%e5%85%8d%e8%b4%b9%e8%8a%82%e7%82%b9%e5%88%86%e4%ba%ab/)
 
 ##  3. <a name='-1'></a>三、订阅链接 [长期更新]
-+ https://raw.githubusercontent.com/jinqians/free/main/jinqians.txt
++ https://raw.githubusercontent.com/jinqians/Free_VPN/main/jinqians.txt
 
 + https://cloud.jinqians.com/?explorer/share/fileOut&shareID=9pWVHw9w&path=%7BshareItemLink%3A9pWVHw9w%7D%2F%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9%2Fjinqians.txt
 （备用）
