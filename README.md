@@ -41,6 +41,14 @@ ClashX 下载<a href="https://github.com/yichengchen/clashX/releases" target="_b
 ##  2. <a name='-1'></a>二、网址
 [https://jinqians.com/免费节点](https://jinqians.com/%e5%85%8d%e8%b4%b9%e8%8a%82%e7%82%b9%e5%88%86%e4%ba%ab/)
 
+##  4. <a name='VPS'></a>四、部分节点VPS
++ ### 4.1jinqians.com-HK
+	####  4.1. <a name='-1' href="https://bytevirt.com/product/221" target="_blank" alt="ByteVirt" rel="noopener">ByteVirt</a>
++ ### 4.2jinqians.com-6
+	####  4.2. <a name='-1' href="https://cloud.atlantic.net/r/g336eg0l" target="_blank" alt="Atlantic" rel="noopener">Atlantic</a>
++ ### 4.3日本
+	####  4.3. <a name='-1' href="https://www.vultr.com/?ref=7053968" target="_blank" alt="Vultr" rel="noopener">Vultr</a>
+
 ##  3. <a name='-1'></a>三、订阅链接 [长期更新]
 + https://raw.githubusercontent.com/jinqians/Free_VPN/main/jinqians.txt
 
@@ -50,14 +58,6 @@ ClashX 下载<a href="https://github.com/yichengchen/clashX/releases" target="_b
 ###  3.1. <a name='IP'></a>3.1优选IP
 jinqians.com1-5,jinqians.com-HK套了CF，可通过优选IP进行加速，本地优选IP教程可上网搜索
 在线查看：移动、联通、电信优选IP，<a href="https://stock.hostmonit.com/CloudFlareYes" target="_blank" alt="CF_IP" rel="noopener">网址</a>
-
-##  4. <a name='VPS'></a>四、部分节点VPS
-+ ### 4.1jinqians.com-HK
-	####  4.1. <a name='-1' href="https://bytevirt.com/product/221" target="_blank" alt="ByteVirt" rel="noopener">ByteVirt</a>
-+ ### 4.2jinqians.com-6
-	####  4.2. <a name='-1' href="https://cloud.atlantic.net/r/g336eg0l" target="_blank" alt="Atlantic" rel="noopener">Atlantic</a>
-+ ### 4.3日本
-	####  4.3. <a name='-1' href="https://www.vultr.com/?ref=7053968" target="_blank" alt="Vultr" rel="noopener">Vultr</a>
 
 ##  5. <a name='-1'></a>五、便宜机场推荐
 <b><a href="https://xqcloud.net/#/register?code=Xwa7Mopy" target="_blank" rel="noopener">小强Cloud</a><b><br>
