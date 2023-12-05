@@ -55,7 +55,7 @@ jinqians.com1-5,jinqians.com-HK套了CF，可通过优选IP进行加速，本地
 + ### 4.1 jinqians.com_HK
 ####  4.1. <a name='-1' href="https://bytevirt.com/product/221" target="_blank" alt="ByteVirt" rel="noopener">ByteVirt</a>
 + ### 4.2 jinqians.com_RU
-####  4.2. <a name='-1' href=" https://justhost.asia/?ref=182438" target="_blank" alt="JustHost" rel="noopener">JustHost</a>
+####  4.2. <a name="-1" href="https://justhost.asia/?ref=182438" target="_blank" alt="JustHost" rel="noopener">JustHost</a>
 + ### 4.2 jinqians.com_US
 ####  4.3. <a name='-1' href="https://cloud.atlantic.net/r/g336eg0l" target="_blank" alt="Atlantic" rel="noopener">Atlantic</a>
 + ### 4.4 jinqians.com_Osaka
