@@ -50,20 +50,21 @@ https://raw.githubusercontent.com/jinqians/free/main/jinqians.txt
 https://cloud.jinqians.com/?explorer/share/fileOut&shareID=9pWVHw9w&path=%7BshareItemLink%3A9pWVHw9w%7D%2F%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9%2Fjinqians.txt
 ```
 
-
 ###  3.1. <a name='IP'></a>3.1优选IP
 jinqians.com1-5,jinqians.com-HK套了CF，可通过优选IP进行加速，本地优选IP教程可上网搜索
 在线查看：移动、联通、电信优选IP，<a href="https://stock.hostmonit.com/CloudFlareYes" target="_blank" alt="CF_IP" rel="noopener">网址</a>
 
 ##  4. <a name='VPS'></a>四、部分节点VPS
-+ ### 4.1 jinqians.com_HK
++ ### 4.1 HK
 ####  4.1. <a name='-1' href="https://bytevirt.com/product/221" target="_blank" alt="ByteVirt" rel="noopener">ByteVirt</a>
-+ ### 4.2 jinqians.com_RU
-####  4.2. <a name="-1" href="https://justhost.asia/?ref=182438" target="_blank" alt="JustHost" rel="noopener">JustHost</a>
-+ ### 4.2 jinqians.com_US
++ ### 4.2 JP
+####  4.2. <a name='-1' href="https://www.vultr.com/?ref=7053968" target="_blank" alt="Vultr" rel="noopener">Vultr</a>
++ ### 4.3 US
 ####  4.3. <a name='-1' href="https://cloud.atlantic.net/r/g336eg0l" target="_blank" alt="Atlantic" rel="noopener">Atlantic</a>
-+ ### 4.4 jinqians.com_Osaka
-####  4.3. <a name='-1' href="https://www.vultr.com/?ref=7053968" target="_blank" alt="Vultr" rel="noopener">Vultr</a>
++ ### 4.4 US2
+####  4.4. <a name="-1" href="https://my.racknerd.com/aff.php?aff=9229" target="_blank" alt="RackNerd" rel="noopener">RackNerd</a>
++ ### 4.5 RU
+####  4.5. <a name="-1" href="https://justhost.asia/?ref=182438" target="_blank" alt="JustHost" rel="noopener">JustHost</a>
 
 ##  5. <a name='-1'></a>五、便宜机场推荐
 <b><a href="https://xqcloud.net/#/register?code=Xwa7Mopy" target="_blank" rel="noopener">小强Cloud</a><b><br>
