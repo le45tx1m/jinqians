@@ -1,7 +1,10 @@
 [![7*24小时直播分享](https://raw.githubusercontent.com/jinqians/Free_VPN/main/maxresdefault.jpg)](https://youtube.com/live/zUqLVqrZ3hA)
 
+** 使用说明：点击上方图片进入直播间，软件扫码添加节点 **
 
+下方内容已失效
 
+<strike>
 * 1. [一、食用说明](#intruduce)
 	* 1.1. [1.1软件推荐](#-1)
 		* 1.1.1. [1.1.1IOS](#IOS)
@@ -90,7 +93,7 @@ ClashX 下载<a href="https://github.com/yichengchen/clashX/releases" target="_b
 轻量套餐查看<br>![](https://cloud.jinqians.com/?explorer/share/fileOut&shareID=9pWVHw9w&path=%7BshareItemLink%3A9pWVHw9w%7D%2F%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9%2F%E8%BD%BB%E9%87%8F.jpg&name=/%E8%BD%BB%E9%87%8F.jpg)<br>
 ####  5.2. <a name='-1'></a>5.2增强套餐
 增强套餐查看<br>![](https://cloud.jinqians.com/?explorer/share/fileOut&shareID=9pWVHw9w&path=%7BshareItemLink%3A9pWVHw9w%7D%2F%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9%2F%E5%A2%9E%E5%BC%BA.jpg&name=/%E5%A2%9E%E5%BC%BA.jpg)<br>
-
+</strike>
 ##  6. <a name='-1'></a>六、交流群
 [TG](https://t.me/jinqians_chat) https://t.me/jinqians_chat
 ##  7. <a name='FeedBack'></a>七、FeedBack
