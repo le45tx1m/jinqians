@@ -1,4 +1,4 @@
-[![24小时直播，分享]({https://jinqians.com/wp-content/uploads/2023/10/OIP-C.jpg})]({https://youtube.com/live/zUqLVqrZ3hA?feature=share} "7X24小时在线直播分享免费节点，解锁流媒体Netflix、HBO、Disney plus、ChatGPT，永久免费v2ray、vless、shadowsocks、vpn")
+[![7*24小时直播分享](https://raw.githubusercontent.com/jinqians/Free_VPN/main/maxresdefault.jpg)](https://youtube.com/live/zUqLVqrZ3hA)
 
 
 
