@@ -1,4 +1,4 @@
-[![7*24小时直播分享](https://raw.githubusercontent.com/jinqians/Free_VPN/main/maxresdefault.jpg)](https://youtube.com/live/zUqLVqrZ3hA)
+[![7*24小时直播分享](https://raw.githubusercontent.com/jinqians/Free_VPN/main/maxresdefault.jpg)](https://youtube.com/live/PPtEdJ-8iuU?feature=share)
 
 **使用说明：点击上方图片进入直播间，软件扫码添加节点**
 
